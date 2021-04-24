@@ -1,0 +1,12 @@
+title 0.4
+
+selain->palvelin: new_note post request
+palvelin->selain: 302 redirect, refreshaa /notes-sivun, html koodi
+selain->palvelin: hhtp GET Request URL: https://studies.cs.helsinki.fi/exampleapp/main.css
+palvelin->selain: main.css
+selain->palvelin: GET: Request URL: https://studies.cs.helsinki.fi/exampleapp/main.js
+palvelin->selain: main.js
+selain->palvelin: GET: Request URL: https://studies.cs.helsinki.fi/exampleapp/data.json
+palvelin->selain: data.json
+selain->palvelin: Request URL: https://studies.cs.helsinki.fi/favicon.ico
+palvelin->selain: favicon.ico
